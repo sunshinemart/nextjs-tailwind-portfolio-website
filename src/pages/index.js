@@ -6,20 +6,20 @@ export default function Home() {
   return (
     <div className="flex flex-col lg:flex-row lg:space-x-10">
       <Head>
-        <title>Mathilde Langevin Portfolio</title>
+        <title>Sunshine Mart</title>
         <meta
           name="description"
-          content="Home page Mathilde Langevin Portfolio"
+          content="Home page Sunshine Mart"
         />
       </Head>
       <div className="grid place-content-center text-center lg:text-left">
-        <h1 title="Mathilde Langevin" className="text-[80px] leading-[70px]">
-          Mathilde Langevin
+        <h1 title="Sunshine Mart" className="text-[80px] leading-[70px]">
+          Sunshine Mart
         </h1>
         <div className="my-10 mb-10 space-y-5 text-2xl lg:mb-28">
           <div className="flex flex-col">
-            <span className="font-light">Fashion Photography</span>
-            <span>Portfolio</span>
+            <span className="font-light">Grosir Daging dan Telur</span>
+            <span>Get to Know</span>
           </div>
           <div>
             I use my camera to tell stories. I have been doing this
